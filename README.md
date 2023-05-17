@@ -21,6 +21,7 @@ O pacote "image_processing" é usado para:
 ---------------------------------------------
 
 ## Passo a passo da configuração para hospedar um pacote em Python Test do Pypi
+
 - [x] Upgrade do pip
 - [x] instalação do twine
 - [x] Instalação das últimas versões de "setuptools" e "wheel"
